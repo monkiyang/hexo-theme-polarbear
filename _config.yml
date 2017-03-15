@@ -32,9 +32,9 @@ widget:
   Tags: true
   Categories: true
 
-widget_custom:
-    title:
-    content:
+# widget_custom:
+#     title:
+#     content:
 
 # ===========================================
 # Theme Settings

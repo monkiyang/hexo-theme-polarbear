@@ -13,11 +13,9 @@
       <div id="content">
         {% block content %}{% endblock %}
       </div>
-
       <footer id="colophon">
         {%- include '_partial/footer.swig' %}
       </footer>
-
       <div class="back-to-top" id="back-to-top">
         <i class="iconfont icon-up"></i>
       </div>
